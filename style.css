@@ -1,0 +1,45 @@
+.container{
+    width: 1250px;
+    background-color: #1c345e; 
+}
+header{
+    display: block;
+    font-size: 30pt;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+.sidebar{
+    display: inline-block;
+    background-color: #2a7d8c;
+    text-decoration: underline;
+    border-radius: 20px;
+    color: #52cad4;
+    margin: 20px;
+    padding: 10px;
+    vertical-align: top;
+}
+.introduction{
+    width: 900px;
+    display: inline-block;
+    background-color: #0e1822;
+    color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+.blue{
+    color: blue;
+}
+.underline{
+    text-decoration: underline;
+    color: #52cad4;
+}
+.footer{
+    color: white;
+    border-radius: 20px;
+    background-color: #5e6673;
+    padding: 10px;
+}
